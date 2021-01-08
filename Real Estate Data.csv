@@ -1,0 +1,416 @@
+,Bina novu,mekan,mertebe,otaq sayi,qiymet,sahe,sened
+0,Yeni Tikili,Nerimanov r.,16.0,4,237000,200 ,Kupcali
+1,Yeni Tikili,Yasamal r.,6.0,4,432000,192 ,Kupcali
+2,Yeni Tikili,Nesimi r.,5.0,4,550000,200 ,Kupcali
+3,Yeni Tikili,Xetai r.,5.0,4,137000,132 ,Kupcasiz
+4,Yeni Tikili,Yasamal r.,4.0,4,425000,192 ,Kupcasiz
+5,Yeni Tikili,,,2,83000,119 ,Kupcali
+6,Yeni Tikili,Sabuncu r.,3.0,3,155000,100 ,Kupcali
+7,Yeni Tikili,Yasamal r.,16.0,3,232000,145 ,Kupcali
+8,Yeni Tikili,Bineqedi r.,11.0,3,195000,141 ,Kupcasiz
+9,Kohne Tikili,Yasamal r.,4.0,5,450000,200 ,Kupcali
+10,Yeni Tikili,Xetai r.,7.0,1,68000,63 ,Kupcasiz
+11,Yeni Tikili,Xetai r.,2.0,2,117000,90 ,Kupcali
+12,Yeni Tikili,Nerimanov r.,8.0,3,157000,125 ,Kupcasiz
+13,Yeni Tikili,Nerimanov r.,7.0,3,153000,122 ,Kupcasiz
+14,Yeni Tikili,Yasamal r.,2.0,1,115000,72 ,Kupcali
+15,Yeni Tikili,Yasamal r.,2.0,3,225000,154 ,Kupcali
+16,Kohne Tikili,Nesimi r.,5.0,5,180000,120 ,Kupcali
+17,Yeni Tikili,Nesimi r.,5.0,3,255000,166 ,Kupcali
+18,Yeni Tikili,Nerimanov r.,9.0,2,116000,89 ,Kupcasiz
+19,Yeni Tikili,Yasamal r.,4.0,4,285000,186 ,Kupcasiz
+20,Yeni Tikili,,,3,105000,135 ,Kupcasiz
+21,Yeni Tikili,Nerimanov r.,14.0,3,157000,116 ,Kupcasiz
+22,Yeni Tikili,Nerimanov r.,5.0,2,160000,110 ,Kupcasiz
+23,Kohne Tikili,Yasamal r.,3.0,3,130000,70 ,Kupcali
+24,Yeni Tikili,Yasamal r.,3.0,3,250000,142 ,Kupcali
+25,Yeni Tikili,Masazir,5.0,1,28500,44 ,Kupcasiz
+26,Kohne Tikili,Xezer r.,2.0,3,75000,80 ,Kupcali
+27,Yeni Tikili,Yasamal r.,15.0,2,98000,60 ,Kupcali
+28,Yeni Tikili,Yasamal r.,3.0,5,320000,246 ,Kupcasiz
+29,Yeni Tikili,Bineqedi r.,8.0,3,109000,88 ,Kupcali
+30,Yeni Tikili,Nesimi r.,17.0,3,282000,166 ,Kupcali
+31,Yeni Tikili,Yasamal r.,3.0,3,215000,157 ,Kupcali
+32,Yeni Tikili,Yasamal r.,8.0,2,115000,87 ,Kupcali
+33,Kohne Tikili,,,3,210000,80 ,Kupcasiz
+34,Yeni Tikili,,,3,112000,128 ,Kupcasiz
+35,Yeni Tikili,Abseron r.,3.0,3,85000,90 ,Kupcasiz
+36,Yeni Tikili,Nesimi r.,9.0,4,249000,163 ,Kupcasiz
+37,Yeni Tikili,Yasamal r.,15.0,2,98000,60 ,Kupcali
+38,Kohne Tikili,Yasamal r.,4.0,3,90000,50 ,Kupcali
+39,Kohne Tikili,Bineqedi r.,2.0,3,95000,75 ,Kupcasiz
+40,Yeni Tikili,Xetai r.,6.0,2,166000,95 ,Kupcasiz
+41,Yeni Tikili,Sabuncu r.,4.0,3,87000,83 ,Kupcali
+42,Kohne Tikili,Nizami r.,3.0,3,86000,67 ,Kupcali
+43,Yeni Tikili,Yasamal r.,25.0,2,124000,109 ,Kupcasiz
+44,Yeni Tikili,Nesimi r.,12.0,3,237000,150 ,Kupcali
+45,Yeni Tikili,Yasamal r.,7.0,3,195000,156 ,Kupcasiz
+46,Yeni Tikili,Sebail r.,12.0,3,138000,110 ,Kupcali
+47,Kohne Tikili,Yasamal r.,5.0,1,65000,32 ,Kupcali
+48,Yeni Tikili,Nesimi r.,5.0,4,326000,190 ,Kupcali
+49,Yeni Tikili,Yasamal r.,14.0,2,117000,108 ,Kupcasiz
+50,Yeni Tikili,Yasamal r.,16.0,3,107000,124 ,Kupcali
+51,Yeni Tikili,Masazir,,2,45500,56 ,Kupcasiz
+52,Kohne Tikili,Nesimi r.,3.0,2,110000,100 ,Kupcali
+53,Yeni Tikili,Nesimi r.,12.0,4,361000,185 ,Kupcasiz
+54,Yeni Tikili,Xetai r.,3.0,3,161000,115 ,Kupcasiz
+55,Yeni Tikili,Nerimanov r.,11.0,3,170000,152 ,Kupcasiz
+56,Yeni Tikili,Abseron r.,11.0,3,68000,110 ,Kupcasiz
+57,Yeni Tikili,Xetai r.,11.0,3,167000,129 ,Kupcali
+58,Yeni Tikili,Xetai r.,11.0,5,221000,240 ,Kupcasiz
+59,Yeni Tikili,Nizami r.,4.0,2,144000,90 ,Kupcali
+60,Yeni Tikili,Abseron r.,3.0,3,51000,56 ,Kupcasiz
+61,Yeni Tikili,Abseron r.,5.0,3,52000,77 ,Kupcasiz
+62,Yeni Tikili,Nesimi r.,8.0,3,205000,140 ,Kupcasiz
+63,Yeni Tikili,Yasamal r.,21.0,2,121000,109 ,Kupcasiz
+64,Yeni Tikili,Yasamal r.,17.0,3,165000,148 ,Kupcasiz
+65,Yeni Tikili,Masazir,3.0,2,46000,51 ,Kupcasiz
+66,Yeni Tikili,Yasamal r.,7.0,5,375000,240 ,Kupcali
+67,Yeni Tikili,Nesimi r.,16.0,3,185000,135 ,Kupcali
+68,Yeni Tikili,Nizami r.,17.0,2,85000,66 ,Kupcali
+69,Kohne Tikili,Nerimanov r.,9.0,2,95000,53 ,Kupcali
+70,Yeni Tikili,Nesimi r.,13.0,3,255000,115 ,Kupcali
+71,Kohne Tikili,Nerimanov r.,1.0,3,159000,70 ,Kupcali
+72,Kohne Tikili,Nesimi r.,2.0,2,77000,48 ,Kupcali
+73,Yeni Tikili,Xetai r.,6.0,3,250000,143 ,Kupcali
+74,Yeni Tikili,Xetai r.,6.0,2,166000,95 ,Kupcali
+75,Yeni Tikili,,,2,112000,128 ,Kupcasiz
+76,Kohne Tikili,Yasamal r.,4.0,3,130000,72 ,Kupcali
+77,Kohne Tikili,Yasamal r.,2.0,2,77000,50 ,Kupcali
+78,Yeni Tikili,,,2,180000,96 ,Kupcasiz
+79,Yeni Tikili,Bineqedi r.,8.0,3,108000,88 ,Kupcali
+80,Yeni Tikili,Yasamal r.,10.0,2,87000,60 ,Kupcali
+81,Kohne Tikili,Nesimi r.,2.0,2,70000,50 ,Kupcali
+82,Yeni Tikili,Xetai r.,9.0,2,114000,108 ,Kupcasiz
+83,Yeni Tikili,Bineqedi r.,3.0,3,65000,102 ,Kupcali
+84,Yeni Tikili,,9.0,2,114000,108 ,Kupcasiz
+85,Yeni Tikili,Nerimanov r.,1.0,2,71000,60 ,Kupcasiz
+86,Yeni Tikili,Xetai r.,14.0,2,94500,65 ,Kupcasiz
+87,Kohne Tikili,Xetai r.,2.0,2,66000,50 ,Kupcali
+88,Kohne Tikili,Xetai r.,5.0,3,110000,80 ,Kupcali
+89,Yeni Tikili,,,5,30000,200 ,Kupcasiz
+90,Yeni Tikili,Nerimanov r.,16.0,1,105000,74 ,Kupcasiz
+91,Yeni Tikili,Nerimanov r.,9.0,1,109000,78 ,Kupcasiz
+92,Kohne Tikili,Bineqedi r.,6.0,5,200000,120 ,Kupcali
+93,Yeni Tikili,Nizami r.,10.0,4,490000,205 ,Kupcali
+94,Yeni Tikili,Nerimanov r.,12.0,3,290000,151 ,Kupcali
+95,Yeni Tikili,Bineqedi r.,12.0,1,105000,64 ,Kupcasiz
+96,Kohne Tikili,Bineqedi r.,5.0,3,112000,90 ,Kupcali
+97,Yeni Tikili,Bineqedi r.,4.0,4,168000,153 ,Kupcasiz
+98,Yeni Tikili,Xetai r.,8.0,3,190000,118 ,Kupcasiz
+99,Kohne Tikili,Nizami r.,4.0,2,64000,45 ,Kupcali
+100,Yeni Tikili,Nizami r.,3.0,2,138000,92 ,Kupcali
+101,Yeni Tikili,Nizami r.,5.0,3,180000,132 ,Kupcali
+102,Yeni Tikili,Nizami r.,12.0,2,135000,90 ,Kupcali
+103,Yeni Tikili,Nizami r.,12.0,2,125000,85 ,Kupcali
+104,Kohne Tikili,Nizami r.,3.0,4,126000,110 ,Kupcali
+105,Yeni Tikili,Nizami r.,15.0,4,195000,140 ,Kupcali
+106,Yeni Tikili,Yasamal r.,5.0,4,285000,186 ,Kupcali
+107,Yeni Tikili,Nesimi r.,12.0,4,323000,202 ,Kupcali
+108,Yeni Tikili,Nizami r.,4.0,6,460000,215 ,Kupcali
+109,Kohne Tikili,Suraxani r.,3.0,3,90000,80 ,Kupcali
+110,Yeni Tikili,Nizami r.,7.0,3,150000,140 ,Kupcali
+111,Kohne Tikili,Suraxani r.,5.0,1,34000,34 ,Kupcali
+112,Yeni Tikili,Nesimi r.,13.0,3,177000,128 ,Kupcasiz
+113,Kohne Tikili,Xetai r.,9.0,2,66000,60 ,Kupcali
+114,Yeni Tikili,Nesimi r.,9.0,1,109000,78 ,Kupcasiz
+115,Yeni Tikili,Xetai r.,3.0,3,161000,115 ,Kupcali
+116,Kohne Tikili,Xetai r.,1.0,3,84500,85 ,Kupcali
+117,Yeni Tikili,Yasamal r.,7.0,1,62000,30 ,Kupcali
+118,Yeni Tikili,Nerimanov r.,2.0,3,205000,118 ,Kupcali
+119,Yeni Tikili,Xetai r.,11.0,3,167008,129 ,Kupcali
+120,Yeni Tikili,,,7,520000,350 ,Kupcali
+121,Yeni Tikili,Nesimi r.,9.0,1,122000,72 ,Kupcasiz
+122,Yeni Tikili,Sebail r.,10.0,5,2300000,320 ,Kupcasiz
+123,Yeni Tikili,Xetai r.,4.0,3,245000,144 ,Kupcali
+124,Yeni Tikili,Nerimanov r.,15.0,3,250000,130 ,Kupcasiz
+125,Yeni Tikili,,,3,137000,128 ,Kupcasiz
+126,Kohne Tikili,,,2,70000,38 ,Kupcali
+127,Yeni Tikili,Nerimanov r.,10.0,3,166000,120 ,Kupcasiz
+128,Kohne Tikili,Nesimi r.,2.0,2,68000,50 ,Kupcali
+129,Yeni Tikili,Xetai r.,3.0,4,250000,145 ,Kupcasiz
+130,Yeni Tikili,Yasamal r.,7.0,3,140000,134 ,Kupcasiz
+131,Kohne Tikili,Nesimi r.,1.0,2,68000,50 ,Kupcasiz
+132,Yeni Tikili,Sabuncu r.,4.0,3,130000,123 ,Kupcali
+133,Yeni Tikili,Nesimi r.,16.0,1,105000,74 ,Kupcasiz
+134,Yeni Tikili,,2.0,3,114000,111 ,Kupcasiz
+135,Yeni Tikili,Nesimi r.,10.0,3,166000,120 ,Kupcasiz
+136,Yeni Tikili,Sabuncu r.,11.0,2,88000,88 ,Kupcali
+137,Yeni Tikili,Xetai r.,11.0,3,167000,129 ,Kupcali
+138,Yeni Tikili,Xetai r.,6.0,3,255000,122 ,Kupcali
+139,Yeni Tikili,Abseron r.,6.0,1,29000,42 ,Kupcasiz
+140,Yeni Tikili,Xetai r.,15.0,3,145000,96 ,Kupcali
+141,Kohne Tikili,Nizami r.,3.0,2,68500,50 ,Kupcali
+142,Kohne Tikili,Nizami r.,5.0,2,74000,60 ,Kupcali
+143,Yeni Tikili,Xetai r.,17.0,3,183000,127 ,Kupcasiz
+144,Kohne Tikili,Xetai r.,3.0,1,65000,40 ,Kupcali
+145,Yeni Tikili,Yasamal r.,12.0,3,107000,98 ,Kupcali
+146,Yeni Tikili,Nerimanov r.,10.0,2,110000,85 ,Kupcasiz
+147,Kohne Tikili,Xetai r.,6.0,4,140000,100 ,Kupcali
+148,Yeni Tikili,Xetai r.,14.0,3,135000,96 ,Kupcali
+149,Yeni Tikili,,,3,126000,115 ,Kupcasiz
+150,Kohne Tikili,Xetai r.,13.0,2,98000,82 ,Kupcali
+151,Yeni Tikili,Nerimanov r.,13.0,3,177000,128 ,Kupcasiz
+152,Kohne Tikili,Nesimi r.,1.0,1,50000,32 ,Kupcali
+153,Kohne Tikili,Suraxani r.,8.0,3,83000,80 ,Kupcali
+154,Kohne Tikili,,,1,32000,30 ,Kupcasiz
+155,Kohne Tikili,Nesimi r.,2.0,2,70000,42 ,Kupcali
+156,Kohne Tikili,Sebail r.,4.0,3,160000,90 ,Kupcali
+157,Kohne Tikili,,2.0,2,90000,50 ,Kupcali
+158,Yeni Tikili,Nizami r.,9.0,4,234000,180 ,Kupcali
+159,Yeni Tikili,Abseron r.,7.0,1,48000,41 ,Kupcasiz
+160,Yeni Tikili,Xetai r.,5.0,1,63000,52 ,Kupcasiz
+161,Kohne Tikili,Xetai r.,6.0,1,32000,30 ,Kupcasiz
+162,Yeni Tikili,Bineqedi r.,4.0,2,132000,90 ,Kupcali
+163,Yeni Tikili,Yasamal r.,4.0,2,108000,93 ,Kupcali
+164,Kohne Tikili,Suraxani r.,8.0,3,83000,80 ,Kupcali
+165,Yeni Tikili,Nerimanov r.,10.0,4,230000,160 ,Kupcali
+166,Yeni Tikili,Yasamal r.,7.0,2,115000,83 ,Kupcasiz
+167,Yeni Tikili,Nerimanov r.,7.0,3,159000,159 ,Kupcali
+168,Kohne Tikili,Nesimi r.,3.0,2,79000,43 ,Kupcali
+169,Kohne Tikili,Xetai r.,6.0,2,66000,50 ,Kupcali
+170,Kohne Tikili,Yasamal r.,3.0,2,135000,55 ,Kupcali
+171,Yeni Tikili,Xetai r.,15.0,3,175000,130 ,Kupcali
+172,Yeni Tikili,Bineqedi r.,10.0,1,97000,58 ,Kupcali
+173,Kohne Tikili,Xetai r.,5.0,4,84500,84500 ,Kupcali
+174,Yeni Tikili,Xetai r.,3.0,3,280000,161 ,Kupcasiz
+175,Kohne Tikili,Abseron r.,5.0,2,45000,62 ,Kupcali
+176,Yeni Tikili,Yasamal r.,3.0,3,225000,135 ,Kupcali
+177,Yeni Tikili,Bineqedi r.,5.0,1,69000,59 ,Kupcasiz
+178,Kohne Tikili,Sabuncu r.,7.0,5,135000,110 ,Kupcali
+179,Yeni Tikili,,,3,230000,162 ,Kupcali
+180,Yeni Tikili,Xetai r.,10.0,2,70000,75 ,Kupcali
+181,Yeni Tikili,,,4,325000,184 ,Kupcali
+182,Yeni Tikili,Nerimanov r.,3.0,2,118000,84 ,Kupcali
+183,Yeni Tikili,Nesimi r.,12.0,7,520000,350 ,Kupcali
+184,Yeni Tikili,Nesimi r.,7.0,1,75000,53 ,Kupcali
+185,Yeni Tikili,Yasamal r.,2.0,3,225000,135 ,Kupcali
+186,Yeni Tikili,Xetai r.,15.0,3,280000,161 ,Kupcali
+187,Kohne Tikili,Sabuncu r.,7.0,3,83000,80 ,Kupcali
+188,Kohne Tikili,Sabuncu r.,4.0,3,112000,90 ,Kupcali
+189,Kohne Tikili,Suraxani r.,6.0,2,63500,62 ,Kupcali
+190,Kohne Tikili,Suraxani r.,6.0,5,98000,110 ,Kupcali
+191,Kohne Tikili,Sabuncu r.,6.0,2,75000,65 ,Kupcali
+192,Yeni Tikili,Xetai r.,4.0,3,204000,128 ,Kupcasiz
+193,Yeni Tikili,Nizami r.,7.0,2,107700,70 ,Kupcali
+194,Yeni Tikili,Nesimi r.,16.0,3,480000,135 ,Kupcali
+195,Yeni Tikili,Bineqedi r.,7.0,3,220000,133 ,Kupcali
+196,Yeni Tikili,Bineqedi r.,17.0,3,178000,102 ,Kupcali
+197,Yeni Tikili,Abseron r.,3.0,1,35000,55 ,Kupcasiz
+198,Kohne Tikili,Yasamal r.,3.0,3,165000,85 ,Kupcali
+199,Yeni Tikili,Nerimanov r.,9.0,3,247000,125 ,Kupcali
+200,Yeni Tikili,Nesimi r.,18.0,3,68000,110 ,Kupcasiz
+201,Kohne Tikili,Bineqedi r.,1.0,2,95000,65 ,Kupcali
+202,Kohne Tikili,Bineqedi r.,4.0,2,77000,55 ,Kupcali
+203,Kohne Tikili,Nesimi r.,1.0,3,74000,60 ,Kupcali
+204,Kohne Tikili,Yasamal r.,3.0,3,157500,90 ,Kupcali
+205,Yeni Tikili,Bineqedi r.,10.0,4,360000,210 ,Kupcali
+206,Yeni Tikili,Xetai r.,3.0,2,100000,65 ,Kupcasiz
+207,Yeni Tikili,Abseron r.,6.0,3,95000,120 ,Kupcasiz
+208,Yeni Tikili,,,5,1222000,350 ,Kupcasiz
+209,Yeni Tikili,Yasamal r.,7.0,4,234000,150 ,Kupcali
+210,Yeni Tikili,,26.0,3,170000,149 ,Kupcasiz
+211,Kohne Tikili,Bineqedi r.,2.0,2,90000,53 ,Kupcasiz
+212,Yeni Tikili,Sabuncu r.,7.0,3,159000,126 ,Kupcali
+213,Yeni Tikili,,,3,250000,140 ,Kupcali
+214,Yeni Tikili,Bineqedi r.,17.0,3,110000,145 ,Kupcali
+215,Yeni Tikili,,,4,750000,220 ,Kupcasiz
+216,Yeni Tikili,Nerimanov r.,9.0,2,145000,75 ,Kupcali
+217,Kohne Tikili,Nesimi r.,4.0,2,70000,29 ,Kupcali
+218,Yeni Tikili,Nizami r.,10.0,2,107000,76 ,Kupcali
+219,Yeni Tikili,Nerimanov r.,11.0,4,325000,184 ,Kupcali
+220,Yeni Tikili,,,3,175000,136 ,Kupcasiz
+221,Yeni Tikili,Sabuncu r.,18.0,3,103000,112 ,Kupcali
+222,Kohne Tikili,Sabuncu r.,3.0,4,117000,100 ,Kupcali
+223,Kohne Tikili,Xetai r.,3.0,3,95000,80 ,Kupcali
+224,Yeni Tikili,Nerimanov r.,15.0,2,165000,87 ,Kupcali
+225,Yeni Tikili,,12.0,3,237000,150 ,Kupcali
+226,Yeni Tikili,Bineqedi r.,7.0,3,220000,133 ,Kupcali
+227,Kohne Tikili,Xetai r.,1.0,3,84000,85 ,Kupcali
+228,Yeni Tikili,Nerimanov r.,14.0,3,230000,162 ,Kupcali
+229,Kohne Tikili,Nesimi r.,1.0,1,56000,36 ,Kupcali
+230,Yeni Tikili,,,4,46000,100 ,Kupcasiz
+231,Kohne Tikili,Nesimi r.,5.0,2,95000,70 ,Kupcali
+232,Yeni Tikili,Yasamal r.,14.0,3,234000,168 ,Kupcali
+233,Yeni Tikili,Yasamal r.,18.0,1,74000,50 ,Kupcali
+234,Yeni Tikili,Yasamal r.,4.0,3,190000,147 ,Kupcasiz
+235,Yeni Tikili,Suraxani r.,20.0,3,215000,175 ,Kupcali
+236,Yeni Tikili,Nesimi r.,11.0,3,202000,147 ,Kupcasiz
+237,Kohne Tikili,Bineqedi r.,4.0,3,68000,49 ,Kupcali
+238,Yeni Tikili,Yasamal r.,12.0,4,415000,185 ,Kupcasiz
+239,Yeni Tikili,Nesimi r.,12.0,3,237000,150 ,Kupcali
+240,Kohne Tikili,Xetai r.,1.0,3,84000,85 ,Kupcali
+241,Yeni Tikili,Nesimi r.,5.0,3,249000,135 ,Kupcali
+242,Kohne Tikili,Xetai r.,6.0,1,32000,30 ,Kupcasiz
+243,Kohne Tikili,Yasamal r.,5.0,2,76000,46 ,Kupcali
+244,Yeni Tikili,Nesimi r.,1.0,1,87000,58 ,Kupcasiz
+245,Yeni Tikili,Xetai r.,5.0,1,76000,51 ,Kupcasiz
+246,Yeni Tikili,Xetai r.,3.0,3,115000,72 ,Kupcali
+247,Yeni Tikili,Yasamal r.,18.0,3,165000,109 ,Kupcasiz
+248,Yeni Tikili,,,3,150000,133 ,Kupcasiz
+249,Yeni Tikili,Nizami r.,10.0,3,150000,81 ,Kupcasiz
+250,Yeni Tikili,Bineqedi r.,13.0,2,135000,78 ,Kupcali
+251,Yeni Tikili,Bineqedi r.,13.0,2,135000,88 ,Kupcali
+252,Kohne Tikili,Nerimanov r.,3.0,2,82000,56 ,Kupcali
+253,Yeni Tikili,Yasamal r.,18.0,2,98000,68 ,Kupcali
+254,Yeni Tikili,Yasamal r.,14.0,3,234000,168 ,Kupcali
+255,Kohne Tikili,Xetai r.,8.0,3,85000,80 ,Kupcali
+256,Yeni Tikili,Pirallahi r.,9.0,4,249000,163 ,Kupcasiz
+257,Yeni Tikili,Yasamal r.,11.0,2,87000,60 ,Kupcali
+258,Yeni Tikili,Xetai r.,10.0,2,97000,68 ,Kupcali
+259,Yeni Tikili,Masazir,,2,48500,74 ,Kupcasiz
+260,Kohne Tikili,,,1,27000,25 ,Kupcasiz
+261,Kohne Tikili,Xetai r.,5.0,4,84500,85 ,Kupcali
+262,Yeni Tikili,Nesimi r.,10.0,3,295000,140 ,Kupcasiz
+263,Yeni Tikili,,16.0,1,53000,42 ,Kupcasiz
+264,Kohne Tikili,Bineqedi r.,6.0,2,87000,50 ,Kupcali
+265,Kohne Tikili,Yasamal r.,3.0,2,88000,50 ,Kupcali
+266,Yeni Tikili,Bineqedi r.,10.0,4,230000,160 ,Kupcasiz
+267,Yeni Tikili,Yasamal r.,18.0,4,250000,141 ,Kupcali
+268,Yeni Tikili,Sabuncu r.,5.0,2,70000,85 ,Kupcasiz
+269,Yeni Tikili,,,2,25000,62 ,Kupcasiz
+270,Yeni Tikili,,4.0,2,37050,57 ,Kupcali
+271,Yeni Tikili,Xetai r.,14.0,3,188000,132 ,Kupcali
+272,Yeni Tikili,Bineqedi r.,3.0,3,127000,101 ,Kupcali
+273,Kohne Tikili,,,5,155000,125 ,Kupcasiz
+274,Kohne Tikili,Nerimanov r.,1.0,2,70000,47 ,Kupcali
+275,Yeni Tikili,Bineqedi r.,17.0,3,178000,178000 ,Kupcali
+276,Yeni Tikili,Bineqedi r.,8.0,3,220000,133 ,Kupcali
+277,Yeni Tikili,Yasamal r.,15.0,3,175000,136 ,Kupcali
+278,Kohne Tikili,Nesimi r.,1.0,2,68000,47 ,Kupcali
+279,Yeni Tikili,Nesimi r.,3.0,3,155000,110 ,Kupcali
+280,Kohne Tikili,Nizami r.,4.0,1,27000,25 ,Kupcasiz
+281,Yeni Tikili,Yasamal r.,11.0,2,110000,85 ,Kupcali
+282,Yeni Tikili,Yasamal r.,11.0,3,157000,128 ,Kupcali
+283,Yeni Tikili,Nizami r.,16.0,3,128000,100 ,Kupcasiz
+284,Kohne Tikili,Bineqedi r.,2.0,4,135000,110 ,Kupcali
+285,Kohne Tikili,Xetai r.,7.0,3,82000,80 ,Kupcali
+286,Yeni Tikili,,4.0,2,108000,93 ,Kupcali
+287,Yeni Tikili,,16.0,3,107000,124 ,Kupcali
+288,Kohne Tikili,,2.0,2,87000,60 ,Kupcali
+289,Yeni Tikili,Yasamal r.,5.0,3,159000,90 ,Kupcali
+290,Yeni Tikili,Xetai r.,14.0,3,220000,117 ,Kupcali
+291,Yeni Tikili,Nizami r.,10.0,3,150000,80 ,Kupcasiz
+292,Kohne Tikili,,,3,48000,40 ,Kupcali
+293,Kohne Tikili,Yasamal r.,3.0,2,88000,50 ,Kupcali
+294,Yeni Tikili,Nerimanov r.,11.0,2,175000,108 ,Kupcasiz
+295,Yeni Tikili,Sebail r.,7.0,5,990000,252 ,Kupcali
+296,Kohne Tikili,Bineqedi r.,2.0,1,54000,32 ,Kupcali
+297,Yeni Tikili,,,3,255000,130 ,Kupcasiz
+298,Yeni Tikili,,2.0,2,42750,57 ,Kupcali
+299,Kohne Tikili,Nesimi r.,1.0,3,89000,60 ,Kupcali
+300,Kohne Tikili,,,2,87000,60 ,Kupcali
+301,Yeni Tikili,Xetai r.,14.0,2,164000,75 ,Kupcali
+302,Yeni Tikili,Yasamal r.,11.0,3,110000,85 ,Kupcali
+303,Yeni Tikili,Nesimi r.,7.0,2,130000,90 ,Kupcali
+304,Yeni Tikili,Yasamal r.,2.0,2,100000,74 ,Kupcali
+305,Yeni Tikili,Sebail r.,13.0,1,72000,58 ,Kupcali
+306,Yeni Tikili,Bineqedi r.,8.0,3,220000,133 ,Kupcali
+307,Yeni Tikili,Pirallahi r.,12.0,3,400000,161 ,Kupcasiz
+308,Yeni Tikili,Yasamal r.,5.0,1,75000,45 ,Kupcali
+309,Yeni Tikili,Nizami r.,7.0,3,139000,140 ,Kupcali
+310,Yeni Tikili,,,4,670000,200 ,Kupcasiz
+311,Yeni Tikili,Nesimi r.,11.0,4,185000,135 ,Kupcali
+312,Kohne Tikili,Nizami r.,2.0,1,61000,32 ,Kupcali
+313,Kohne Tikili,Xezer r.,4.0,2,64000,60 ,Kupcali
+314,Yeni Tikili,Xetai r.,14.0,3,220000,117 ,Kupcali
+315,Yeni Tikili,Yasamal r.,7.0,3,248000,138 ,Kupcali
+316,Kohne Tikili,Yasamal r.,2.0,2,87000,60 ,Kupcali
+317,Yeni Tikili,Nesimi r.,5.0,3,330000,156 ,Kupcali
+318,Yeni Tikili,,,3,177000,119 ,Kupcasiz
+319,Yeni Tikili,Yasamal r.,12.0,2,85000,46 ,Kupcali
+320,Yeni Tikili,Nerimanov r.,4.0,3,333000,151 ,Kupcasiz
+321,Kohne Tikili,Xetai r.,6.0,4,84900,110 ,Kupcali
+322,Kohne Tikili,,,2,64000,60 ,Kupcasiz
+323,Yeni Tikili,Bineqedi r.,6.0,2,70000,85 ,Kupcali
+324,Yeni Tikili,Xetai r.,14.0,3,188000,132 ,Kupcali
+325,Yeni Tikili,Yasamal r.,5.0,3,124000,110 ,Kupcali
+326,Yeni Tikili,Yasamal r.,13.0,3,108000,113 ,Kupcali
+327,Yeni Tikili,Xetai r.,11.0,2,88000,84 ,Kupcali
+328,Yeni Tikili,Yasamal r.,5.0,4,315000,192 ,Kupcali
+329,Yeni Tikili,Yasamal r.,14.0,5,510000,362 ,Kupcali
+330,Yeni Tikili,Nesimi r.,5.0,3,159000,90 ,Kupcali
+331,Kohne Tikili,Yasamal r.,8.0,2,82000,55 ,Kupcali
+332,Yeni Tikili,Yasamal r.,10.0,4,165000,141 ,Kupcali
+333,Yeni Tikili,Yasamal r.,13.0,3,108000,113 ,Kupcali
+334,Yeni Tikili,Xetai r.,17.0,3,135000,108 ,Kupcali
+335,Yeni Tikili,Xetai r.,11.0,3,95000,116 ,Kupcasiz
+336,Yeni Tikili,Nizami r.,15.0,2,112000,67 ,Kupcali
+337,Yeni Tikili,Nesimi r.,4.0,4,296000,190 ,Kupcali
+338,Kohne Tikili,,,1,68000,35 ,Kupcali
+339,Kohne Tikili,Sebail r.,2.0,2,77000,50 ,Kupcali
+340,Yeni Tikili,Yasamal r.,7.0,3,137000,107 ,Kupcasiz
+341,Kohne Tikili,Bineqedi r.,8.0,5,195000,120 ,Kupcali
+342,Yeni Tikili,Xetai r.,9.0,3,219000,137 ,Kupcali
+343,Yeni Tikili,Yasamal r.,14.0,3,150000,133 ,Kupcasiz
+344,Kohne Tikili,Nesimi r.,3.0,2,79000,43 ,Kupcali
+345,Kohne Tikili,Nesimi r.,6.0,3,270000,135 ,Kupcasiz
+346,Kohne Tikili,Yasamal r.,5.0,4,123000,90 ,Kupcali
+347,Yeni Tikili,Yasamal r.,15.0,4,158000,210 ,Kupcali
+348,Yeni Tikili,Nerimanov r.,7.0,3,223000,155 ,Kupcali
+349,Yeni Tikili,Nesimi r.,21.0,5,1222000,350 ,Kupcali
+350,Kohne Tikili,Bineqedi r.,1.0,3,130000,110 ,Kupcali
+351,Yeni Tikili,,15.0,3,145000,95 ,Kupcali
+352,Yeni Tikili,Xetai r.,6.0,3,245000,130 ,Kupcali
+353,Yeni Tikili,Yasamal r.,19.0,8,500000,1000 ,Kupcali
+354,Yeni Tikili,Abseron r.,6.0,2,70000,70 ,Kupcali
+355,Yeni Tikili,,15.0,2,113000,87 ,Kupcali
+356,Kohne Tikili,Nerimanov r.,5.0,3,86000,70 ,Kupcali
+357,Yeni Tikili,Nesimi r.,2.0,2,135000,75 ,Kupcasiz
+358,Yeni Tikili,Yasamal r.,16.0,2,79000,74 ,Kupcasiz
+359,Yeni Tikili,Yasamal r.,7.0,2,84000,68 ,Kupcali
+360,Kohne Tikili,Yasamal r.,3.0,3,168000,80 ,Kupcali
+361,Yeni Tikili,Yasamal r.,16.0,1,53000,42 ,Kupcali
+362,Yeni Tikili,Xetai r.,5.0,2,130000,65 ,Kupcali
+363,Kohne Tikili,Nizami r.,8.0,2,99000,60 ,Kupcali
+364,Kohne Tikili,Nizami r.,4.0,1,27000,25 ,Kupcasiz
+365,Kohne Tikili,Nerimanov r.,3.0,2,110000,75 ,Kupcali
+366,Kohne Tikili,Qaradag r.,2.0,3,139000,60 ,Kupcali
+367,Yeni Tikili,Sabuncu r.,11.0,3,233000,179 ,Kupcali
+368,Yeni Tikili,Nerimanov r.,6.0,2,205000,106 ,Kupcali
+369,Yeni Tikili,,5.0,3,158000,130 ,Kupcasiz
+370,Yeni Tikili,Yasamal r.,16.0,2,132000,70 ,Kupcali
+371,Kohne Tikili,Xetai r.,6.0,2,66000,54 ,Kupcali
+372,Yeni Tikili,Abseron r.,2.0,2,59000,64 ,Kupcali
+373,Yeni Tikili,,,1,48000,95 ,Kupcasiz
+374,Kohne Tikili,Nizami r.,17.0,1,55000,55 ,Kupcasiz
+375,Yeni Tikili,Nesimi r.,3.0,3,190650,123 ,Kupcasiz
+376,Kohne Tikili,,,3,55555,70 ,Kupcali
+377,Yeni Tikili,Nesimi r.,12.0,3,200000,116 ,Kupcali
+378,Kohne Tikili,Nizami r.,2.0,3,105000,66 ,Kupcali
+379,Yeni Tikili,Abseron r.,2.0,2,73000,70 ,Kupcasiz
+380,Yeni Tikili,Nerimanov r.,7.0,3,159000,129 ,Kupcali
+381,Yeni Tikili,Nizami r.,9.0,5,390000,311 ,Kupcali
+382,Yeni Tikili,Xetai r.,14.0,3,220000,117 ,Kupcali
+383,Yeni Tikili,Sabuncu r.,11.0,4,301000,232 ,Kupcali
+384,Yeni Tikili,,,3,120000,97 ,Kupcali
+385,Yeni Tikili,Nerimanov r.,7.0,3,250000,140 ,Kupcali
+386,Kohne Tikili,Yasamal r.,6.0,3,120000,77 ,Kupcali
+387,Yeni Tikili,Yasamal r.,7.0,2,74000,76 ,Kupcali
+388,Yeni Tikili,Nesimi r.,7.0,4,380000,205 ,Kupcali
+389,Yeni Tikili,Yasamal r.,10.0,3,153000,121 ,Kupcali
+390,Yeni Tikili,,5.0,3,330000,156 ,Kupcali
+391,Yeni Tikili,Xetai r.,2.0,3,158000,130 ,Kupcasiz
+392,Yeni Tikili,Yasamal r.,7.0,3,159000,90 ,Kupcali
+393,Yeni Tikili,Xetai r.,8.0,2,125000,54 ,Kupcasiz
+394,Yeni Tikili,Nerimanov r.,20.0,3,215000,175 ,Kupcali
+395,Yeni Tikili,Nerimanov r.,6.0,2,135000,70 ,Kupcali
+396,Yeni Tikili,Nesimi r.,1.0,1,350000,150 ,Kupcali
+397,Kohne Tikili,Nerimanov r.,2.0,2,81000,55 ,Kupcali
+398,Yeni Tikili,Nesimi r.,12.0,4,480000,186 ,Kupcasiz
+399,Yeni Tikili,Nesimi r.,18.0,3,68000,110 ,Kupcasiz
+400,Yeni Tikili,,,3,135000,120 ,Kupcali
+401,Yeni Tikili,Nesimi r.,8.0,3,170000,116 ,Kupcali
+402,Yeni Tikili,Nerimanov r.,4.0,4,380000,174 ,Kupcali
+403,Yeni Tikili,Nerimanov r.,17.0,3,110000,145 ,Kupcasiz
+404,Yeni Tikili,Yasamal r.,1.0,3,110000,96 ,Kupcali
+405,Yeni Tikili,Yasamal r.,6.0,4,182000,182 ,Kupcasiz
+406,Yeni Tikili,Nesimi r.,15.0,3,165000,96 ,Kupcasiz
+407,Yeni Tikili,Xezer r.,1.0,3,33000,90 ,Kupcasiz
+408,Yeni Tikili,Sebail r.,10.0,2,125000,72 ,Kupcali
+409,Kohne Tikili,Nesimi r.,6.0,3,270000,135 ,Kupcasiz
+410,Kohne Tikili,,,3,82000,65 ,Kupcasiz
+411,Yeni Tikili,Yasamal r.,6.0,1,73000,61 ,Kupcasiz
+412,Yeni Tikili,Xetai r.,11.0,5,2125000,275 ,Kupcasiz
+413,Kohne Tikili,,,1,55000,55 ,Kupcasiz
+414,Yeni Tikili,Yasamal r.,11.0,1,35000,21 ,Kupcasiz
